@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+<suite name="Integration" parallel="false">
+
+    <test name="Simple Integration test">
+        <classes>
+            <class name="integration.IntegrationTest"/>
+        </classes>
+    </test>
+</suite>
