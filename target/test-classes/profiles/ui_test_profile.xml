@@ -1,9 +1,0 @@
-<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
-<suite name="UI" parallel="false">
-
-    <test name="Simple UI test">
-        <classes>
-            <class name="ui.UIEmbeddable"/>
-        </classes>
-    </test>
-</suite>
